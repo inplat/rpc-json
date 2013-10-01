@@ -1,0 +1,16 @@
+{
+    "name": "inplat/rpc.json",
+    "description": "PHP JSON-RPC 2.0 Server/Client Implementation",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Konstantin Stepanov",
+            "email": "konstantin.stepanov@inplat.ru"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "inplat\\rpc\\": ["src/inplat/rpc"]
+        }
+    }
+}
