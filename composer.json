@@ -9,7 +9,7 @@
     ],
     "autoload": {
         "psr-0": {
-            "inplat\\rpc\\": ["src/inplat/rpc"]
+            "inplat\\rpc\\": ["src"]
         }
     }
 }
