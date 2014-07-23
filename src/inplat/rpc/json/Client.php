@@ -13,7 +13,7 @@ namespace inplat\rpc\json;
 class Client
 {
 
-    public $loggerClass = 'inplat\rcp\Logger';
+    public $loggerClass = 'inplat\rpc\Logger';
     public $loggerName = 'Client';
 
     /**
