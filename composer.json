@@ -1,5 +1,5 @@
 {
-    "name": "inplat/rpc.json",
+    "name": "inplat/rpc-json",
     "description": "PHP JSON-RPC 2.0 Server/Client Implementation",
     "authors": [
         {
